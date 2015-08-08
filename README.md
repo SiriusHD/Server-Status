@@ -9,3 +9,12 @@ Les commande utilisée fonctionne sous débian  ou une distubution de débian (U
 Inspiré de [installgentoo.net](http://installgentoo.net).
 
 IP et teste de vitesse par: [cyprieng's fork](https://github.com/cyprieng/status).
+
+To Do list
+
+Make HTTP part Working
+Add somes services
+
+Changelogs
+Translating 90%
+Bug Fix
