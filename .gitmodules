@@ -1,3 +1,0 @@
-[submodule "speedtest"]
-	path = speedtest
-	url = https://github.com/sivel/speedtest-cli.git
